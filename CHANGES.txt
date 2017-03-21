@@ -1,0 +1,4 @@
+MySensors D1 mini is derivative of Sensebender Micro designed by Thomas Mørch (thomas@mysensors.org) 
+Main goal of this project is to use Wemos D1 mini (pro) shields with MySensors node.
+
+2017-03-20 - Initial release (v0.1 draft)
