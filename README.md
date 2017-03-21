@@ -1,4 +1,3 @@
 # MySensors-D1-mini
-Sensebender micro in Wemos D1 mini form factor. It's Wemos D1 mini schields compatible.
-
-Thanks to this project, you can use Wemos <a href="https://www.wemos.cc/D1-mini-Shields">D1 mini shields</a> with MySensors. (not tested yet, draft)
+MySensors D1 mini is derivative of <a href="https://www.openhardware.io/view/1/Sensebender-Micro">Sensebender Micro</a> designed by Thomas Mørch (thomas@mysensors.org)
+Main goal of this project is to use all Wemos <a href="https://www.wemos.cc/D1-mini-Shields">D1 mini (pro) shields</a> (not tested yet, draft) with MySensors node.
