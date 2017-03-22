@@ -5,4 +5,5 @@ Main goal of this project is to use all <a href="https://www.wemos.cc/D1-mini-Sh
 
 PCBs:
 -OSH Park: https://oshpark.com/projects/yifTZHL4
+
 -pcbs.io: https://pcbs.io/share/zdVkg
