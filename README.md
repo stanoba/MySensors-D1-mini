@@ -4,5 +4,7 @@ Main goal of this project is to use all <a href="https://www.wemos.cc/D1-mini-Sh
 
 
 PCBs:<br>
--OSH Park: https://oshpark.com/projects/yifTZHL4<br>
--pcbs.io: https://pcbs.io/share/zdVkg
+<ul>
+<li><a href="https://pcbs.io/share/zdVkg">PCBs.io</a> 4 for $6, black 1.6mm PCB, ENIG finish.</li>
+<li><a href="https://oshpark.com/projects/yifTZHL4">OSHPark.com</a> 3 for $7.60, purple 1.6mm PCB, ENIG finish.</li>
+<ul/>
