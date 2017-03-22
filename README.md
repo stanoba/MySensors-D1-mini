@@ -3,6 +3,6 @@ MySensors D1 mini is derivative of <a href="https://www.openhardware.io/view/1/S
 Main goal of this project is to use all <a href="https://www.wemos.cc/D1-mini-Shields" target="_blank">Wemos D1 mini (pro) shields</a> (not tested yet, draft) with MySensors node.
 
 
-PCBs:
--OSH Park: https://oshpark.com/projects/yifTZHL4
+PCBs:<br>
+-OSH Park: https://oshpark.com/projects/yifTZHL4<br>
 -pcbs.io: https://pcbs.io/share/zdVkg
